@@ -1,0 +1,19 @@
+{
+  "threshold": 0.0017094648210331798,
+  "test_n": 314,
+  "test_prevalence": 0.054140127388535034,
+  "precision": 0.06832298136645963,
+  "recall": 0.6470588235294118,
+  "F1": 0.12359550561797752,
+  "PR_AUC_average_precision": 0.08365079272459824,
+  "ROC_AUC": 0.6110120816003168,
+  "confusion_matrix": {
+    "TN": 147,
+    "FP": 150,
+    "FN": 6,
+    "TP": 11
+  },
+  "base_rate_PR_AUC_reference": 0.054140127388535034,
+  "selected_epoch": 4,
+  "validation_PR_AUC_at_selected_epoch": 0.032819229605837844
+}
